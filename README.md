@@ -4,7 +4,7 @@ Scalable voting system using AWS
 The following cloud services are deployed to implement the scalable voting system using a serverless architecture:
 
 •	Amazon S3: This service is used to host the front-end website.
-•	Amazon API Gateway: This service is used to route incoming requests to the appropriate AWS Lambda function.
+ •	Amazon API Gateway: This service is used to route incoming requests to the appropriate AWS Lambda function.
 •	AWS Lambda: This service is used to implement the business logic of the application, including reading and writing data to the database.
 •	Amazon DynamoDB: This service is used to store the data of the voting system.
 
